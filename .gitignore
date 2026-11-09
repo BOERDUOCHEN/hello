@@ -1,3 +1,10 @@
 .api
 .csv
 node_modules/
+
+# VSCode 工作区配置
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
